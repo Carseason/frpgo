@@ -1,8 +1,8 @@
 package frpplugins
 
 import (
+	"frpgo/pkgs/config"
 	"net/http"
-	"routergo/pkgs/config"
 
 	plugin "github.com/fatedier/frp/pkg/plugin/server"
 	"github.com/gin-gonic/gin"

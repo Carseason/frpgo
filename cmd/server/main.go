@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"routergo/pkgs/config"
-	frpplugins "routergo/pkgs/frpPlugins"
+	"frpgo/pkgs/config"
+	frpplugins "frpgo/pkgs/frpPlugins"
 
 	v1 "github.com/fatedier/frp/pkg/config/v1"
 	"github.com/fatedier/frp/server"

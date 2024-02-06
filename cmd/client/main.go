@@ -1,8 +1,8 @@
 package main
 
 import (
-	"routergo/pkgs/config"
-	"routergo/pkgs/sdk"
+	"frpgo/pkgs/config"
+	"frpgo/pkgs/sdk"
 	"sync"
 )
 
